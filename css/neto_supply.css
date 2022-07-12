@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 29, 2018, 6:03:40 PM
+    Author     : Apoorv srivastava
+*/
+
+.intro {
+    font-size: 150%;
+    color: red;
+}
+
+div#form_new p span {
+    float: right;
+}
+div#form_new {
+    width: 65%;
+    margin: 0px auto;
+    background: #c7c7c7;
+    padding: 20px;
+}div#form_new p span {
+    float: right;
+    font-weight: 700;
+}.code {
+    width: 50%;
+    float: right;
+    margin: 1em 0;
+}.good p {
+    width: 50%;
+    float: left;
+    font-weight:700;
+}.code span input[type="text"] {
+    width: 100%;
+}.number-field span {
+    float: left;
+}.input-drop {
+    float: left;
+    width: 100%;
+    padding: 4px 0px;
+}.code span {
+    font-weight: 700;
+}
+.number-field span {
+    float: left;
+    font-weight: 700;
+}.input-droper span {
+    font-weight: 700;
+}
+
+.number-field input[type="text"] {
+    float: right;
+}
+.col-md-6 {
+    float:left;
+}.group-store h4 {
+    font-size: 1.25rem;
+    padding-top: 9px;
+}
+.input-drop select#state {
+    float: right;
+}
+.number-field {
+    width: 100%;
+    float: left;
+}.change-roll {
+    width: 100%;
+    float: left;
+}
+.change-roll input[type="text"] {
+    width: 100%;
+}
+.change-roll select {
+    width: 50%;
+}
+.input-droper strong {
+    color: #f00;
+    font-weight: 500;
+    float: right;
+    padding: 0px 5px;
+    font-size: 15px;
+}
+.input-droper {
+    padding: 4px 0px;
+}
